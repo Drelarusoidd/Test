@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+*.mo
+*.db
+.vscode
+.gitignore
+.flake8
